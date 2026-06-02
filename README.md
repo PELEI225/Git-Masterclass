@@ -51,7 +51,7 @@ Your support motivates me to keep creating high-quality, free DevOps content.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/CloudWithVarJosh/Git-Masterclass.git
+git clone https://github.com/PELEI225/Git-Masterclass.git
 ```
 
 2. **Navigate to the relevant part:**
@@ -66,6 +66,5 @@ Each folder aligns with the corresponding video and builds on previous concepts.
 
 ## Stay Connected
 
-* Follow me on **LinkedIn: [https://www.linkedin.com/in/varun-joshi-2b516752/](https://www.linkedin.com/in/varun-joshi-2b516752/)**
-* Subscribe to my **YouTube Channel: [https://www.youtube.com/@CloudWithVarJosh](https://www.youtube.com/@CloudWithVarJosh)**
-* Explore more on **GitHub: [https://github.com/CloudWithVarJosh](https://github.com/CloudWithVarJosh)**
+* Follow me on **LinkedIn:LinkedIn: https://www.linkedin.com/in/ebenezer-pelei-18856b365/
+* Explore more on **GitHub: GitHub: https://github.com/PELEI225
